@@ -8,6 +8,7 @@ https://youtube.com/channel/UCzhm5yp2hQWO_wosVA7gtHw
 
 Download My Maps🔽
 https://github.com/SteveAlexM/Home/releases/tag/Maps-v1.2
+
 Maps:Supported Minecraft versions:1.12.2 1.13 1.14 1.15 1.16 1.18
 
 ![Screenshot_20220213_114236](https://user-images.githubusercontent.com/83632207/153739003-1fa57011-b2b8-4c1d-96eb-e09e1f1a6e5a.jpg)
