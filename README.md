@@ -4,7 +4,7 @@ Assalamualaikum, Hello Guys this is my Github acount.
 My Youtube Channel (Indonesian) 🔽
 https://youtube.com/channel/UCzhm5yp2hQWO_wosVA7gtHw
 
-![Screenshot_20220217_161038](https://user-images.githubusercontent.com/83632207/154609464-ef3c7f65-0707-4e98-a564-7ed55d54ce2c.jpg)
+![Screenshot_20220218_150120](https://user-images.githubusercontent.com/83632207/155828321-cc3d8f06-8427-470f-8355-a15a43ffb98b.jpg)
 
 Download My Maps🔽
 https://github.com/SteveAlexM/Home/releases/tag/Maps-v1.3
