@@ -36,6 +36,14 @@ https://github.com/SteveAlexM/Kumulus-Shader_Basic-Gl4Es/releases/tag/Part_5
 
 Shader:Supported Minecraft versions:1.8.9 - 1.16.5
 
+![20220604_123849](https://user-images.githubusercontent.com/83632207/171986256-ccc30118-43c4-43f5-bbd7-88302a106289.png)
+
+Download Kumulus Shader Basic Gl4Es part 6🔽
+https://github.com/SteveAlexM/Kumulus-Shader_Basic-Gl4Es/releases/tag/Part_6
+
+Shader:Supported Minecraft versions:1.8.9 - 1.16.5
+Required Holy Gl4es Renderer (non Snapdragon)
+         Gl4es 1.1.4 for Snapdragon
 
 Download Kumulus Shader Basic VGPU 🔽
 https://github.com/SteveAlexM/modified-shader-for-pojav-launcher-vgpu
