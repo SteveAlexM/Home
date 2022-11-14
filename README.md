@@ -54,6 +54,15 @@ Shader Supported minecraft versions:1.8.9 - 1.16.5
 Required Holy Gl4es Renderer (non Snapdragon)
          Gl4es 1.1.4 for Snapdragon
 
+![Screenshot_2022_1110_091848](https://user-images.githubusercontent.com/83632207/200984302-63f97e51-b691-4f70-8fee-89d4f4a80c03.png)
+
+Download Kumulus Shader Basic Gl4Es part 8⏬
+https://github.com/SteveAlexM/Kumulus-Shader_Basic-Gl4Es/releases/tag/Part_8
+
+Shader Supported minecraft versions:1.8.9 - 1.16.5
+Required Holy Gl4es Renderer (non Snapdragon)
+         Gl4es 1.1.4 for Snapdragon
+
 Download Kumulus Shader Basic VGPU 🔽
 https://github.com/SteveAlexM/modified-shader-for-pojav-launcher-vgpu
 
